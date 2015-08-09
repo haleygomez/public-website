@@ -1,0 +1,5 @@
+baseurl = "http://haley.gomez.me.uk"
+languageCode = "en-gb"
+title = "Haley Gomez"
+[Params]
+	description="Professor of Astrophysics"
