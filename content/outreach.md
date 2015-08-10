@@ -1,14 +1,12 @@
 +++
-date = "2015-08-09T14:59:10+01:00"
-draft = true
+date = "2015-08-09T14:24:21+01:00"
+draft = false
 title = "Outreach"
 [menu.main]
 name = "Outreach"
-weight = 4
+weight = 3
 
 +++
-
-
 ![Some of our outreach team.  From L to R: Dr Chris North, Dr Haley Gomez, Miss Sarah Eve Roberts, Dr Edward Gomez.][1]Some of our outreach team. From L to R: Dr Chris North, Dr Haley Gomez, Miss Sarah Eve Roberts, Dr Edward Gomez.
 
 I am Head of [Public Engagement and Outreach][2] at the School of Physics and Astronomy in Cardiff University. This involves chairing the Outreach committee and direct responsibility for line managing three staff members.
@@ -66,9 +64,9 @@ I regularly give talks at astronomical societies across the UK, national public 
 Our outreach projects are made possible through our partnership with [LCOGT][12], [Cardiff University][13], [EU Universe Awareness (UNAWE)][14] and we have received funding from [STFC][15], [RCUK][16], [EU FP7][17] framework and the Welsh Government's [National Science Academy][18].  
 ![logos_funders][19]
 
-[1]: http://haley.gomez.me.uk/wp-content/uploads/2010/04/outreach_team-300x199.jpg
+[1]: /images/outreach_team.jpg
 [2]: http://blogs.cardiff.ac.uk/physicsoutreach/
-[3]: http://haley.gomez.me.uk/wp-content/uploads/2010/04/impact_uniclass-300x296.jpg
+[3]: /images/impact_uniclass.jpg
 [4]: http://lcogt.net/user/egomez
 [5]: https://www.astro.cf.ac.uk/contactsandpeople/?page=full&amp;id=493
 [6]: https://www.astro.cf.ac.uk/contactsandpeople/?page=full&amp;id=682
@@ -84,5 +82,5 @@ Our outreach projects are made possible through our partnership with [LCOGT][12]
 [16]: http://www.rcuk.ac.uk/
 [17]: http://ec.europa.eu/
 [18]: http://wales.gov.uk/topics/businessandeconomy/csaw/nsa/?lang=en
-[19]: http://haley.gomez.me.uk/wp-content/uploads/2010/04/logos_funders.jpg
+[19]: /images/logos_funders.jpg
   

@@ -4,7 +4,7 @@ draft = false
 title = "Publications"
 [menu.main]
 name = "Publications"
-weight = 4
+weight = 2
 
 +++
 Go to [my Google Scholar page](https://scholar.google.co.uk/citations?user=Hk6f2h8AAAAJ&hl=en) or see my [full list of publications on my Cardiff University profile page](https://www.astro.cf.ac.uk/contactsandpeople/?page=full&id=151). Here are a list of select publications from 2003 onwards.

@@ -1,10 +1,11 @@
 +++
-date = "2015-08-09T14:56:26+01:00"
-draft = true
-title = "Seminars, Talks and Conferences"
+date = "2015-08-09T14:24:21+01:00"
+draft = false
+title = "Seminars, Conferences, and Talks"
 [menu.main]
 name = "Talks"
-weight = 4
+weight = 2
+
 +++
 
 ## 2014 – present
