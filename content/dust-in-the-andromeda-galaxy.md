@@ -3,7 +3,8 @@ date = "2015-08-09T16:47:15+01:00"
 draft = false
 title = "Dust in the Andromeda Galaxy"
 
-+++	
++++
+
 Left: Composite three colour image of Andromeda with Herschel SPIRE at 250, 350 and 500μm. Credit: ESA/Herschel/SPIRE/HELGA. Right: Pixel by pixel maps of the dust surface density (top) and the dust emissivity index beta (bottom) across M31 (Smith et al. 2012b).
 Left: Composite three colour image of Andromeda with Herschel SPIRE at 250, 350 and 500μm. Credit: ESA/Herschel/SPIRE/HELGA. Right: Pixel by pixel maps of the dust surface density (top) and the dust emissivity index beta (bottom) across M31 (Smith et al. 2012b).
 
