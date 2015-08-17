@@ -7,13 +7,14 @@ name = "Outreach"
 weight = 3
 
 +++
-![Some of our outreach team.  From L to R: Dr Chris North, Dr Haley Gomez, Miss Sarah Eve Roberts, Dr Edward Gomez.][1]Some of our outreach team. From L to R: Dr Chris North, Dr Haley Gomez, Miss Sarah Eve Roberts, Dr Edward Gomez.
+
+{{<figure src="/images/outreach_team.jpg" title="Some of our outreach team.  From L to R: Dr Chris North, Professor Haley Gomez, Miss Sarah Eve Roberts, Dr Edward Gomez.">}}
 
 I am Head of [Public Engagement and Outreach][2] at the School of Physics and Astronomy in Cardiff University. This involves chairing the Outreach committee and direct responsibility for line managing three staff members.
 
 With respect to enhancing public understanding from a more educational standpoint, I have written popular articles in Schools' journals, visited many schools, worked with Nuffield students, led and spoken at teacher training conferences as well as developing educational tools (funded by STFC) for classrooms which have also been incorporated into undergraduate lectures and laboratories.
 
-![Image showing the impact we've made so far in Universe in the Classroom project.][3]Image showing the impact we've made so far in Universe in the Classroom project.
+{{<figure src= "/images/impact_uniclass.jpg" title="Image showing the impact we've made so far in Universe in the Classroom project.">}}
 
 I also run two large outreach projects with [Dr Edward Gomez][4], [Dr Chris North][5] and [Miss Sarah Eve Roberts][6].
 
@@ -43,14 +44,14 @@ I regularly give talks at astronomical societies across the UK, national public 
 **2011** Brigend Astronomical Society  
 **2011** Bath Astronomical Society  
 **2011** Swansea Astronomical Society  
-**2011 ** Cardiff Scientific Society: Smoking Supernovae  
+**2011** Cardiff Scientific Society: Smoking Supernovae  
 **2011** Open University Fusion Society – guest lecture  
 **2010** Torbay Astronomical Society: Smoking Supernovae  
 **2010** British Astronomical Association: Herschel: Smoking Supernovae and Smouldering Stars  
 **2010** Bristol Astronomical Society: Herschel:Unveiling the Cool Universe  
 **2010** Talks to Sixth Form events approx. 600 pupils  
-**2009 **Federation of Astronomical Societies @ Cambridge: Herschel: Unveiling the Cool Universe  
-**2009 **Cardiff University: sixth form conference – Smoking Supernovae  
+**2009**Federation of Astronomical Societies @ Cambridge: Herschel: Unveiling the Cool Universe  
+**2009**Cardiff University: sixth form conference – Smoking Supernovae  
 **2009** Bristol Astronomical Society: Smoking Supernovae  
 **2009** Swansea Astronomical Society: Are you afraid of the dark? Cosmology  
 **2009** Port Talbot Astronomical Society: Smoking Supernovae  

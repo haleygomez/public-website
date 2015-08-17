@@ -1,17 +1,14 @@
 +++
 date = "2015-08-09T15:04:41+01:00"
-draft = true
-title = "My Group"
-
+draft = false
+title = "The Team"
+[menu.main]
+name = "The Team"
+weight = 5
 +++
 
-#### Postdocs/Fellows
 
 #### PhD students
-
-![clark][1]
-
-Chris Clark (graduated Jan 2015, now a PDRA with the [dustpedia][2] project)
 
 ![simon][3]
 
@@ -22,6 +19,10 @@ Simon Schofield
 Rosie Beeston (starting in Oct 2015)
 
 Eleni Tsiakalaris (starting in Oct 2015, co-supervised by Mikako Matsuura)
+
+![clark][1]
+
+Chris Clark (graduated Jan 2015, now a PDRA with the [dustpedia][2] project)
 
 [1]: /images/clark.jpg
 [2]: http://dustpedia.com
