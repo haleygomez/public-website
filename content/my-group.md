@@ -13,32 +13,18 @@ title = "My Group"
 
 Chris Clark (graduated Jan 2015, now a PDRA with the [dustpedia][2] project)
 
-&nbsp;
-
-&nbsp;
-
 ![simon][3]
 
 Simon Schofield
-
-&nbsp;
-
-&nbsp;
 
 ![Rosie2][4]
 
 Rosie Beeston (starting in Oct 2015)
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 Eleni Tsiakalaris (starting in Oct 2015, co-supervised by Mikako Matsuura)
 
-[1]: http://haley.gomez.me.uk/wp-content/uploads/2015/04/clark-150x150.jpg
+[1]: /images/clark.jpg
 [2]: http://dustpedia.com
-[3]: http://haley.gomez.me.uk/wp-content/uploads/2015/04/simon-150x150.jpg
-[4]: http://haley.gomez.me.uk/wp-content/uploads/2015/04/Rosie2.jpg
+[3]: /images/simon.jpg
+[4]: /images/Rosie2.jpg
   
