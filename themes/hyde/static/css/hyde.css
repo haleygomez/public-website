@@ -45,6 +45,7 @@ html {
   }
 }
 
+figcaption h4 { font-weight: normal; font-size: 0.75rem; color:#aaa;}
 
 /*
  * Sidebar
