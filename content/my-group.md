@@ -12,6 +12,8 @@ Loretta Dunne
 
 Steve Maddox
 
+![phil][8]
+
 Phil Cigan
 
 #### PhD students
@@ -47,3 +49,4 @@ Chris Clark (graduated Jan 2015, now a PDRA with the [dustpedia][2] project)
 [5]: /images/jenimillard.jpg
 [6]: /images/hannahchawner.jpg
 [7]: /images/zoeballard.jpg
+[8]: /images/phil.jpg
