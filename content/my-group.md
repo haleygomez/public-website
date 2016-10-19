@@ -25,12 +25,15 @@ Simon Schofield (Oct 2013)
 Rosie Beeston (starting in Oct 2015)
 
 ![zoe][7]
+
 Zoe Ballard (Oct 2016)
 
 ![hannah][6]
+
 Hannah Chawner (Oct 2016, jointly supervised with Dr Matsuura)
 
 ![jeni][7]
+
 Jeni Millard (Oct 2016)
 
 ![clark][1]
