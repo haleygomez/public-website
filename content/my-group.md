@@ -32,7 +32,7 @@ Zoe Ballard (Oct 2016)
 
 Hannah Chawner (Oct 2016, jointly supervised with Dr Matsuura)
 
-![jeni][7]
+![jeni][5]
 
 Jeni Millard (Oct 2016)
 
