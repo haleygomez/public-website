@@ -8,17 +8,27 @@ weight = 5
 +++
 
 
+Loretta Dunne
+
+Steve Maddox
+
+Phil Cigan
+
 #### PhD students
 
 ![simon][3]
 
-Simon Schofield
+Simon Schofield (Oct 2013)
 
 ![Rosie2][4]
 
 Rosie Beeston (starting in Oct 2015)
 
-Eleni Tsiakalaris (starting in Oct 2015, co-supervised by Mikako Matsuura)
+Zoe Ballard (Oct 2016)
+
+Hannah Chawner (Oct 2016, jointly supervised with Dr Matsuura)
+
+Jeni Millard (Oct 2016)
 
 ![clark][1]
 
@@ -28,4 +38,3 @@ Chris Clark (graduated Jan 2015, now a PDRA with the [dustpedia][2] project)
 [2]: http://dustpedia.com
 [3]: /images/simon.jpg
 [4]: /images/Rosie2.jpg
-  
