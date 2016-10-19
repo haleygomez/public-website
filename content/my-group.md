@@ -9,6 +9,8 @@ weight = 5
 
 #### Fellows and Research Assistants
 
+![loretta][10]
+
 Loretta Dunne
 
 ![steve][9]
@@ -54,3 +56,4 @@ Chris Clark (graduated Jan 2015, now a PDRA with the [dustpedia][2] project)
 [7]: /images/zoeballard.jpg
 [8]: /images/phil.jpg
 [9]: /images/maddox.jpg
+[10]: /images/loretta.jpg
