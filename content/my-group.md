@@ -11,6 +11,8 @@ weight = 5
 
 Loretta Dunne
 
+![steve][9]
+
 Steve Maddox
 
 ![phil][8]
@@ -51,3 +53,4 @@ Chris Clark (graduated Jan 2015, now a PDRA with the [dustpedia][2] project)
 [6]: /images/hannahchawner.jpg
 [7]: /images/zoeballard.jpg
 [8]: /images/phil.jpg
+[9]: /images/maddox.jpg
