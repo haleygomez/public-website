@@ -5,7 +5,7 @@ title = "Supernova dust factories"
 
 +++
 
-{{<figure src="/images/crab_sm.jpg" title="Figure 3. Herschel (red) and Hubble (blue) composite image of the Crab Nebula. Credit: ESA/Herschel/PACS/MESS Key Programme Supernova Remnant Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)." >}}
+{{<figure src="/images/crab_sm.jpg" title="Figure 3. Herschel (red) and Hubble (blue) composite image of the Crab Nebula. Credit: ESA/Herschel/PACS/MESS Key Programme Supernova Remnant Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University).">}}
 
 Stars more than eight times heavier than the Sun are known to enrich galaxies with heavy elements. Near the end of their relatively short lives they eject material in intense winds, sometimes with speeds up to 4 million mph. The enigmatic star eta Carinae is thought to have lost over 80 times the mass of our Sun in the last 1,000 years in the form of gas and dust. Supernovae and their remnants may also be important at polluting galaxies with lots of dust and could be an important place for forming molecules but this is still a controversial topic.
 
