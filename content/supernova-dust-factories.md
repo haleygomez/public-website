@@ -5,7 +5,7 @@ title = "Supernova dust factories"
 
 +++
 
-{{<figure src="/images/crab.jpg" title="Figure 3. Herschel (red) and Hubble (blue) composite image of the Crab Nebula. Credit: ESA/Herschel/PACS/MESS Key Programme Supernova Remnant Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)." >}}
+{{<figure src="/images/crab_sm.jpg" title="Figure 3. Herschel (red) and Hubble (blue) composite image of the Crab Nebula. Credit: ESA/Herschel/PACS/MESS Key Programme Supernova Remnant Team; NASA, ESA and Allison Loll/Jeff Hester (Arizona State University)." >}}
 
 Stars more than eight times heavier than the Sun are known to enrich galaxies with heavy elements. Near the end of their relatively short lives they eject material in intense winds, sometimes with speeds up to 4 million mph. The enigmatic star eta Carinae is thought to have lost over 80 times the mass of our Sun in the last 1,000 years in the form of gas and dust. Supernovae and their remnants may also be important at polluting galaxies with lots of dust and could be an important place for forming molecules but this is still a controversial topic.
 
@@ -15,7 +15,7 @@ We investigated dust in the Crab Nebula which lies about six and a half thousand
 
 After ruling out other sources of light in the infrared spectrum, we used Herschel to see great detail in the the far-infrared, and found filaments are made of cosmic dust. This provides definitive evidence that the Crab Nebula is an efficient “dust factory”, containing enough dust to make around 30,000-40,000 planet Earths. Unlike in Cas A, the dust may be made of mostly carbon materials, crucial for the formation of planetary systems like our own Solar System.
 
-In many supernova remnants, most of any dust freshly-formed is destroyed as it ploughs into the surrounding gas and dust, crushed by the violent shock waves. A final treat is that the Crab Nebula is a much kinder environment for dust grains, so the dust does not seem to be destroyed (see also Gall et al 2014, Gomez et al 2014). This may be the first observed case of dust being freshly “baked” in a supernova and surviving its outward journey carried along by the shock wave. 
+In many supernova remnants, most of any dust freshly-formed is destroyed as it ploughs into the surrounding gas and dust, crushed by the violent shock waves. A final treat is that the Crab Nebula is a much kinder environment for dust grains, so the dust does not seem to be destroyed (see also Gall et al 2014, Gomez et al 2014). This may be the first observed case of dust being freshly “baked” in a supernova and surviving its outward journey carried along by the shock wave.
 
 {{<figure src="/images/CasA_small_crop3-4.jpg" title="Figure 1. A three colour image of the core-collapse remnant Cassiopeia A combined from Herschel PACS images at wavelengths of 70 (blue), 100 (green) and 250 microns (red). See how clear the remnant is in blue, this is due to the infrared emission from hot dust (around 100K) but only a tiny amount of dust is required to shine this brightly at this wavelength. The faint green blob in the centre of the remnant is the newly discovered cool dust component (around 30,000 Earth masses). The red structures all over the map show emission from dust in unrelated Galactic clouds in the foreground (some of this originates from unrelated spiral arm in between us and Cas A). For more details see Barlow et al 2010 and Dunne et al 2003, 2009." >}}
 
