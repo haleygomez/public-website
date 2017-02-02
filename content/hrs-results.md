@@ -18,9 +18,7 @@ The results from Herschel (see also Rowlands et al. 2012) indicate that traditio
 
 ## Dusty evidence of galaxy-scale interactions
 
-![ETGinteracts](/images/m86_test.jpg)
 
-Compare the starlight from the two galaxies M86 and NGC4438 (optical, top) and the dust seen by Herschel (coloured map bottom). Overlaid on this map is the shock-heated hydrogen (red), this is evidence that the dust in M86 has been stripped from NGC4438.
 
 {{<figure src="/images/m86_test.jpg" title="Compare the starlight from the two galaxies M86 and NGC4438 (optical, top) and the dust seen by Herschel (coloured map bottom). Overlaid on this map is the shock-heated hydrogen (red), this is evidence that the dust in M86 has been stripped from NGC4438.">}}
 
