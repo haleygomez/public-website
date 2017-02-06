@@ -25,7 +25,7 @@ Phil Cigan
 
 ![simon][3]
 
-Simon Schofield (Oct 2013)
+Simon Schofield (PhD received in Jan 2017, now working in industry)
 
 ![Rosie2][4]
 
