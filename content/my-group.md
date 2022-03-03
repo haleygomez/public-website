@@ -21,7 +21,7 @@ Steve Maddox
 
 Phil Cigan
 
-#### PhD students
+#### PhD and MPhil students
 
 ![simon][3]
 
@@ -29,15 +29,15 @@ Simon Schofield (PhD received in Jan 2017, now working in industry)
 
 ![Rosie2][4]
 
-Rosie Beeston (starting in Oct 2015)
+Rosie Beeston (graduated 2020, now working in industry)
 
 ![zoe][7]
 
-Zoe Ballard (Oct 2016)
+Zoe Ballard (Oct 2016, graduated 2021, now working in industry)
 
 ![hannah][6]
 
-Hannah Chawner (Oct 2016, jointly supervised with Dr Matsuura)
+Hannah Chawner (graduated 2021,  now working in industry, jointly supervised with Dr Matsuura)
 
 ![jeni][5]
 
@@ -45,10 +45,9 @@ Jeni Millard (Oct 2016)
 
 ![clark][1]
 
-Chris Clark (graduated Jan 2015, now a PDRA with the [dustpedia][2] project)
+Chris Clark (graduated Jan 2015, now a PDRA in the US)
 
 [1]: /images/clark.jpg
-[2]: http://dustpedia.com
 [3]: /images/simon.jpg
 [4]: /images/Rosie2.jpg
 [5]: /images/jenimillard.jpg
