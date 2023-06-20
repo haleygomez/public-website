@@ -9,7 +9,7 @@ weight = 2
 +++
 I have published 127 research papers since my first paper in 2003, publishing in ApJ, MNRAS, Nature, Science and ApJ Letters with a total of 10000+ citations. Go to [my Google Scholar page](https://scholar.google.co.uk/citations?user=Hk6f2h8AAAAJ&hl=en) or see my [full list of publications on my Cardiff University profile page](https://www.astro.cf.ac.uk/contactsandpeople/?page=full&id=151).
 
-A select list of non-academic/non-refereed pieces of work are shown below.
+A select list of non-academic/non-refereed pieces of work are shown below. I have published under the names Gomez, H.L and Morgan H.L.
 
 
 **Dust in Supernova Remnants – Invited Review**  
@@ -59,7 +59,7 @@ Standing Up for Science.
 Sense About Science: Voice of Young Science Team including Haley Gomez, Standing up for Science is a lively, informal guide to the inner workings of the media with practical tips about how early career scientists can get involved. [Download it](http://www.senseaboutscience.org.uk/index.php/site/about/103).  
 
 *Find Your Own Voice.*  
-**Haley Gomez**, Astronomy & Geophysics, 2006, Vol. 47, 5, 5.26  
+Haley Gomez, Astronomy & Geophysics, 2006, Vol. 47, 5, 5.26  
 
 *The Origin and Evolution of Dust*  
-PhD Thesis, **Morgan H.L.**, 2004  
+PhD Thesis, Morgan H.L., 2004  
