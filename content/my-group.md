@@ -7,7 +7,7 @@ name = "The Team"
 weight = 5
 +++
 
-#### Fellows and Research Assistants
+#### Past Fellows and Research Assistants
 
 ![loretta][10]
 
@@ -41,7 +41,7 @@ Hannah Chawner (graduated 2021,  now working in industry, jointly supervised wit
 
 ![jeni][5]
 
-Jeni Millard (Oct 2016)
+Jeni Millard (graduated 2021)
 
 ![clark][1]
 

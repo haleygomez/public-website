@@ -10,13 +10,13 @@ weight = 3
 
 {{<figure src="/images/outreach_team.jpg" title="Some of our outreach team.  From L to R: Dr Chris North, Professor Haley Gomez, Miss Sarah Eve Roberts, Dr Edward Gomez.">}}
 
-I am Head of [Public Engagement and Outreach][2] at the School of Physics and Astronomy in Cardiff University. This involves chairing the Outreach committee and direct responsibility for line managing three staff members.
+I was Head of [Public Engagement and Outreach][2] at the School of Physics and Astronomy in Cardiff University for a number of years. This involves chairing the Outreach committee and direct responsibility for line managing three staff members.
 
-With respect to enhancing public understanding from a more educational standpoint, I have written popular articles in Schools' journals, visited many schools, worked with Nuffield students, led and spoken at teacher training conferences as well as developing educational tools (funded by STFC) for classrooms which have also been incorporated into undergraduate lectures and laboratories.
+With respect to enhancing public understanding from a more educational standpoint, I have written popular articles in Schools' journals, visited many schools, worked with Nuffield students, led and spoken at teacher training conferences as well as developing educational tools (funded by STFC) for classrooms which have also been incorporated into undergraduate lectures and laboratories. I was privileged to have been awarded an MBE for my contributions to outreach in Wales.
 
 {{<figure src= "/images/impact_uniclass.jpg" title="Image showing the impact we've made so far in Universe in the Classroom project.">}}
 
-I also run two large outreach projects with [Dr Edward Gomez][4], [Dr Chris North][5] and [Miss Sarah Eve Roberts][6].
+I also ran two large outreach projects with [Dr Edward Gomez][4], [Dr Chris North][5] and [Miss Sarah Eve Roberts][6].
 
 The first project is funded by the EU (5 Million euros) to bring astronomy research into the secondary classroom and in developing new training methods for teachers. This project, [Inspiring Science Education][7] aims to highlight and promote best practices in STEM education in schools across Europe (31 partners in 15 countries). It uses innovative eLearning tools and resources including interactive simulations and data analysis tools ([some][8] created by us); Cardiff University is the UK PI of this project. Dr Chris North is the co-ordinator for this project.
 
@@ -84,4 +84,3 @@ Our outreach projects are made possible through our partnership with [LCOGT][12]
 [17]: http://ec.europa.eu/
 [18]: http://wales.gov.uk/topics/businessandeconomy/csaw/nsa/?lang=en
 [19]: /images/logos_funders.jpg
-  
